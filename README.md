@@ -7,3 +7,4 @@ git status
 git checkout
 git branch
 git pull
+git branch -d # to delete the unnecessary branches
